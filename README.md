@@ -17,9 +17,9 @@ Script de criação: https://github.com/tacianosilva/bsi-tasks/tree/master/bd/sc
 
 **Material de Estudos**
 - http://materialdornel.readthedocs.io/pt_BR/latest/linguagem-sql/procedures.html
-Funções
-- http://materialdornel.readthedocs.io/pt_BR/latest/linguagem-sql/funcoes.html
-- https://ajuda.locaweb.com.br/pt-br/Como_criar_Functions_no_MySQL_5.0
+- Funções
+  - http://materialdornel.readthedocs.io/pt_BR/latest/linguagem-sql/funcoes.html
+  - https://ajuda.locaweb.com.br/pt-br/Como_criar_Functions_no_MySQL_5.0
 - DCL
   - https://www.digitalocean.com/community/tutorials/como-criar-um-novo-usuario-e-conceder-permissoes-no-mysql-pt
   - https://www.devmedia.com.br/gerenciamento-de-usuarios-e-controle-de-acessos-do-mysql/1898
@@ -41,4 +41,5 @@ Funções
 13. Crie um índice para o atributo sigla da tabela departamento e um índice para o atributo situação da tabela atividade.
 14. Explique o funcionamento de um índice e como ele é implementado no SGBD.
 
-Link da atividade: https://docs.google.com/document/d/1Oj3AFmHNh1pSLUfCWZtwlZ2zXUSe1_ASQ3MU7HZe-Lg/edit
+Link da atividade:  
+https://docs.google.com/document/d/1Oj3AFmHNh1pSLUfCWZtwlZ2zXUSe1_ASQ3MU7HZe-Lg/edit

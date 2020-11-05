@@ -1,0 +1,3 @@
+Um índice serve para evitar percorrer todas as linhas ao realizar uma consulta. Por exemplo, em uma tabela de clientes com colunas codigo, nome, dataDeNascimento, email, deseja-se obter os e-mails dos usuários com nome Francisco que nasceram após 1990. Caso hajam milhões de tabelas, haveria desperdício de recursos do servidor para percorrer cada linha comparando data de nascimento e nome. Portanto, com um index em dataDeNascimento e nome, haveria uma filtragem para busca na tabela.
+
+A implementação do index pode ocorrer na criação da tabela ou após esta última, necessitando do comando CREATE INDEX [nome do index] on [nome da tabela]([colunas]).
