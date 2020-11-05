@@ -17,4 +17,4 @@ END; //
 
 DELIMITER ;
 
--- SELECT idadeDoFuncionario('1978-03-31');
+-- SELECT idadeDoFuncionario('1976-01-29');
